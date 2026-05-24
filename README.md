@@ -1,62 +1,118 @@
+```md
 <h1 align="center">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-<br><br></h1>
+<br><br>
+</h1>
 
 <h1 align="center">Hi, I'm <span style="color:#00E5FF">Sourav S</span> 👋</h1>
-<h3 align="center">UI/UX Designer | Frontend Developer | AI & DS Student</h3>
+
+<h3 align="center">
+UI/UX Designer • Frontend Developer • AI & DS Student
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer;Frontend+Developer;Design+Lead+%40+Communities;React+%7C+HTML+%7C+CSS;Creating+User-Centered+Experiences;Always+Learning+and+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer;Frontend+Developer;AI+%26+DS+Student;React+%7C+Next.js+%7C+Tailwind;Creating+Modern+User+Experiences;Always+Learning+and+Building" />
 </p>
 
 ---
 
-## 🧑‍🎨 About Me  
-I am an aspiring **UI/UX Designer** and **Frontend Developer** passionate about building  
-engaging, modern, and accessible digital experiences.  
-Skilled in **Figma**, **React.js**, **HTML**, and **CSS**, I focus on combining empathy, clean UI,  
-and smooth user flows to create meaningful interfaces.  
-
-I love collaborating with teams, mentoring juniors, and bringing ideas to life through  
-beautiful and intuitive design.  
-Currently seeking opportunities to **design, develop, and grow** as a creative professional.  
+## 🚀 Portfolio Website
+🌐 **Live Portfolio:**  
+👉 [https://souravportfoli.vercel.app/](https://souravportfoli.vercel.app/)
 
 ---
 
-## 🎓 Education  
+## 🧑‍💻 About Me
+
+I am an aspiring **UI/UX Designer** and **Frontend Developer** passionate about building modern, engaging, and accessible digital experiences.
+
+Skilled in:
+- Figma
+- React.js
+- Next.js
+- HTML
+- CSS
+- Tailwind CSS
+
+I focus on combining:
+- Clean UI
+- User-centered design
+- Smooth user experience
+- Modern frontend development
+
+Currently exploring:
+- AI-powered applications
+- Full-stack web development
+- Startup building
+- Creative frontend systems
+
+---
+
+## 🎓 Education
+
 **B.Tech – Artificial Intelligence & Data Science (2023–2027)**  
-College of Engineering Karunagappally (KTU)
+📍 College of Engineering Karunagappally (KTU)
 
 ---
 
+## 🧠 Skills
 
-
-## 🧠 Skills  
 <div align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="100">
+
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
+
 </div>
 
+---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
+
 <br><br>
 
+## 🔥 Current Focus
 
-## 🔗 Connect With Me  
+- Building AI-powered products
+- Frontend engineering
+- UI/UX systems
+- Full-stack web applications
+- Open-source contributions
+
+---
+
+## 📫 Connect With Me
+
 <p align="center">
-  <a href="https://github.com/Alchemist1910"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
-  <a href="mailto:souravs51380@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+  
+<a href="https://github.com/alchemist-sourav">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+<a href="mailto:souravs51380@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+</a>
+
+<a href="https://souravportfoli.vercel.app/">
+<img src="https://img.icons8.com/fluency/48/domain.png" width="50"/>
+</a>
+
 </p>
 
-<p align="center">✨ Crafting beautiful experiences, one pixel at a time ✨</p>
+---
 
+<p align="center">
+✨ Crafting beautiful digital experiences, one pixel at a time ✨
+</p>
+```
