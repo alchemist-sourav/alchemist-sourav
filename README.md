@@ -1,111 +1,160 @@
-
 <h1 align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-<br><br>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </h1>
 
-<h1 align="center">Hi, I'm <span style="color:#00E5FF">Sourav S</span> 👋</h1>
+<h1 align="center">
+⚡ Sourav S ⚡
+</h1>
 
 <h3 align="center">
-UI/UX Designer • Frontend Developer • AI & DS Student
+AI Engineer • Software Developer • Creator of Alchemist OS
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer;Frontend+Developer;AI+%26+DS+Student;React+%7C+Next.js+%7C+Tailwind;Creating+Modern+User+Experiences;Always+Learning+and+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF003C&center=true&vCenter=true&width=800&lines=AI+Engineer;Creator+of+Alchemist+OS;Full+Stack+Developer;Building+AI+Agents+and+Automation;Python+%7C+FastAPI+%7C+Next.js;Always+Building+Something+New" />
 </p>
 
 ---
 
-## 🚀 Portfolio Website
-🌐 **Live Portfolio:**  
-👉 [https://souravportfoli.vercel.app/](https://souravportfoli.vercel.app/)
+# 🚀 About Me
+
+I'm a B.Tech Artificial Intelligence & Data Science student passionate about building intelligent software systems.
+
+Currently building **Alchemist OS**, an AI-powered desktop assistant that combines:
+
+* Voice Interaction
+* Wake Word Detection
+* Memory Systems
+* Browser Automation
+* Vision Analysis
+* Computer Control
+* Autonomous Task Planning
+
+I enjoy turning ambitious ideas into real products through engineering, automation, and AI.
 
 ---
 
-## 🧑‍💻 About Me
+# 🔥 Featured Project
 
-I am an aspiring **UI/UX Designer** and **Frontend Developer** passionate about building modern, engaging, and accessible digital experiences.
+## Alchemist OS
 
-Skilled in:
-- Figma
-- React.js
-- Next.js
-- HTML
-- CSS
-- Tailwind CSS
+An AI-powered desktop operating layer capable of:
 
-I focus on combining:
-- Clean UI
-- User-centered design
-- Smooth user experience
-- Modern frontend development
+* Voice Commands
+* Persistent Memory
+* Browser Control
+* Screen Understanding
+* Task Management
+* AI Planning & Execution
+* Real-Time UI
 
-Currently exploring:
-- AI-powered applications
-- Full-stack web development
-- Startup building
-- Creative frontend systems
+Tech Stack:
+
+Python • FastAPI • SQLite • Playwright • PyAutoGUI • Groq • Next.js • React • TypeScript • Three.js
 
 ---
 
-## 🎓 Education
+# 🧠 Technical Skills
 
-**B.Tech – Artificial Intelligence & Data Science (2023–2027)**  
-📍 College of Engineering Karunagappally (KTU)
+### Languages
+
+* Python
+* JavaScript
+* TypeScript
+* HTML
+* CSS
+
+### Frontend
+
+* React
+* Next.js
+* Tailwind CSS
+* Framer Motion
+
+### Backend
+
+* FastAPI
+* REST APIs
+* WebSockets
+* SQLite
+
+### AI & Automation
+
+* LLM Applications
+* AI Agents
+* Prompt Engineering
+* Browser Automation
+* Computer Vision
+* Workflow Automation
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Figma
+* Playwright
+* PyAutoGUI
 
 ---
 
-## 🧠 Skills
+# 🎓 Education
 
-<div align="center">
+B.Tech – Artificial Intelligence & Data Science
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+College of Engineering Karunagappally (KTU)
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="100">
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
-
-</div>
+2023 – 2027
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
+# 🚀 Current Focus
 
-<br><br>
-
-## 🔥 Current Focus
-
-- Building AI-powered products
-- Frontend engineering
-- UI/UX systems
-- Full-stack web applications
-- Open-source contributions
+* Building Alchemist OS
+* AI Agents
+* Automation Systems
+* Full Stack Development
+* Open Source
+* Startup Building
 
 ---
 
-## 📫 Connect With Me
+# 🌐 Portfolio
+
+Portfolio:
+https://souravportfoli.vercel.app/
+
+GitHub:
+https://github.com/alchemist-sourav
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alchemist-sourav&show_icons=true&theme=radical"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=alchemist-sourav&theme=radical"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
 <a href="https://github.com/alchemist-sourav">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
 <a href="mailto:souravs51380@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
 
 <a href="https://souravportfoli.vercel.app/">
-<img src="https://img.icons8.com/fluency/48/domain.png" width="50"/>
+<img src="https://img.icons8.com/fluency/48/domain.png" width="55"/>
 </a>
 
 </p>
@@ -113,6 +162,5 @@ Currently exploring:
 ---
 
 <p align="center">
-✨ Crafting beautiful digital experiences, one pixel at a time ✨
+⚡ Building the future one project at a time ⚡
 </p>
-```
