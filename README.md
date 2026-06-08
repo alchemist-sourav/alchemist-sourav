@@ -1,211 +1,84 @@
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</h1>
-
-<h1 align="center">⚡ Sourav S ⚡</h1>
+<h1 align="center">Hi 👋, I'm Sourav S</h1>
 
 <h3 align="center">
 AI Engineer • Full Stack Developer • Creator of Alchemist OS
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF003C&center=true&vCenter=true&width=900&lines=AI+Engineer;Creator+of+Alchemist+OS;Full+Stack+Developer;Building+AI+Agents+and+Automation;Python+%7C+FastAPI+%7C+Next.js;Always+Building+Something+New" />
+Building AI Agents, Automation Systems and Full Stack Applications
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-I'm **Sourav S**, a B.Tech Artificial Intelligence & Data Science student passionate about building intelligent systems, AI-powered applications, and automation platforms.
+- 🎓 B.Tech AI & Data Science (2023–2027)
+- 🧠 Creator of **Alchemist OS**
+- 🤖 Building AI Agents & Automation Systems
+- 🌐 Full Stack Developer
+- 🚀 Interested in Startups & Open Source
 
-Currently building:
+---
 
-## 🧠 Alchemist OS
+## 🛠️ Tech Stack
 
-An AI-powered desktop assistant featuring:
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,ts,js,tailwind,html,css,sqlite,mysql,git,github,vscode,linux,figma" />
+</p>
 
-- 🎙️ Voice Interaction
-- 🗣️ Wake Word Detection
-- 🧠 Persistent Memory
+---
+
+## 🔥 Current Project
+
+### Alchemist OS
+
+AI-powered desktop assistant featuring:
+
+- 🎙️ Voice Assistant
+- 🧠 Memory System
 - 👁️ Vision Agent
 - 🌐 Browser Automation
-- 🤖 AI Planning & Execution
+- 🤖 AI Planning
 - 🖥️ Computer Control
-- 📋 Task Management
-- ⚡ Real-Time Dashboard
 
 ---
 
-# 🔥 Featured Project
-
-## Alchemist OS
-
-An AI-powered desktop operating layer that combines:
-
-- Voice Assistant
-- AI Agents
-- Browser Automation
-- Computer Vision
-- Autonomous Planning
-- Task Management
-- Memory Systems
-- Desktop Automation
-
-### Tech Stack
-
-#### Backend
-
-- Python
-- FastAPI
-- SQLite
-- WebSockets
-- Groq
-- Playwright
-- PyAutoGUI
-
-#### Frontend
-
-- React
-- Next.js
-- TypeScript
-- Tailwind CSS
-- Three.js
-- Framer Motion
-
----
-
-# 🧠 Skills
-
-## Languages
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
-</p>
 
-## Frontend
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alchemist-sourav&show_icons=true&theme=radical"/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma" />
-</p>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=alchemist-sourav&theme=radical"/>
 
-## Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs" />
-</p>
-
-## Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=sqlite,mysql" />
-</p>
-
-## Tools & Platforms
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
-## AI & Automation
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-### Additional Expertise
-
-- AI Agents
-- Prompt Engineering
-- Browser Automation
-- Computer Vision
-- Workflow Automation
-- LLM Applications
-- Autonomous Systems
-
----
-
-# 🎓 Education
-
-### B.Tech – Artificial Intelligence & Data Science
-
-🏫 College of Engineering Karunagappally (KTU)
-
-📅 2023 – 2027
-
----
-
-# 🚀 Current Focus
-
-- Building Alchemist OS
-- AI Agents & Automation
-- Full Stack Development
-- Open Source Projects
-- Startup Building
-- System Design
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alchemist-sourav&show_icons=true&theme=radical" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alchemist-sourav&theme=radical" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alchemist-sourav&theme=react-dark" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=alchemist-sourav&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-# 🌐 Portfolio
-
-🔗 Portfolio
-
-https://souravportfoli.vercel.app/
-
-🔗 GitHub
-
-https://github.com/alchemist-sourav
-
----
-
-# 📫 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/alchemist-sourav">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 <a href="mailto:souravs51380@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 <a href="https://souravportfoli.vercel.app/">
-<img src="https://img.icons8.com/fluency/48/domain.png" width="55"/>
+<img src="https://img.icons8.com/fluency/48/domain.png" width="48"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sourav-s">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 </p>
 
 ---
 
-# ⚡ Philosophy
-
-> Build. Break. Learn. Improve. Repeat.
-
----
-
 <p align="center">
-
-⚡ Creator of Alchemist OS • Building AI Systems, Automation & Future Technologies ⚡
-
+⚡ Creator of Alchemist OS
 </p>
