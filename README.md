@@ -76,37 +76,47 @@ An AI-powered desktop operating layer capable of:
 
 ---
 
-## 🧠 Skills
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,ts,js,tailwind,html,css,sqlite,mysql,git,github,vscode,linux,figma,tensorflow,pytorch" />
-</p>
-
 ## 🛠️ Tech Stack
 
 ### Languages
-
 <p>
 <img src="https://skillicons.dev/icons?i=python,js,ts,c,r" />
 </p>
 
 ### Frontend
-
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css" />
 </p>
 
 ### Backend
-
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
 </p>
 
 ### Databases
-
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,sqlite,mysql" />
 </p>
 
+### AI & Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+📚 RAG Systems • 🤖 AI Agents • 🧠 Prompt Engineering • 💬 LLM Applications • 👁️ Computer Vision
+
+### Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
 ### AI & Data Science
 
 - 🤖 AI Agents
