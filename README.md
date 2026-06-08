@@ -1,45 +1,82 @@
-<h1 align="center">Hi 👋, I'm Sourav S</h1>
+<h1 align="center">⚡ Sourav S ⚡</h1>
 
 <h3 align="center">
 AI Engineer • Full Stack Developer • Creator of Alchemist OS
 </h3>
 
 <p align="center">
-Building AI Agents, Automation Systems and Full Stack Applications
+Building AI Agents, Automation Systems & Intelligent Software
+</p>
+
+<p align="center">
+<a href="https://github.com/alchemist-sourav">GitHub</a> •
+<a href="https://souravportfoli.vercel.app/">Portfolio</a> •
+<a href="mailto:souravs51380@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-- 🎓 B.Tech AI & Data Science (2023–2027)
-- 🧠 Creator of **Alchemist OS**
-- 🤖 Building AI Agents & Automation Systems
-- 🌐 Full Stack Developer
-- 🚀 Interested in Startups & Open Source
+I'm a B.Tech Artificial Intelligence & Data Science student passionate about building real-world AI systems and automation platforms.
+
+Currently building **Alchemist OS** — an AI-powered desktop assistant that combines:
+
+* Voice Interaction
+* Wake Word Detection
+* Memory Systems
+* Browser Automation
+* Vision Analysis
+* Computer Control
+* Autonomous Task Execution
+
+I enjoy turning ambitious ideas into working products through software engineering and AI.
+
+---
+
+## 🚀 Current Project
+
+### Alchemist OS
+
+An AI-powered desktop operating layer built with:
+
+* Python
+* FastAPI
+* React
+* Next.js
+* SQLite
+* Playwright
+* PyAutoGUI
+* Groq API
+* WebSockets
+
+Features:
+
+* AI Agents
+* Voice Assistant
+* Vision Agent
+* Browser Agent
+* Task Management
+* Persistent Memory
+* Desktop Automation
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,ts,js,tailwind,html,css,sqlite,mysql,git,github,vscode,linux,figma" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,ts,js,tailwind,html,css,sqlite,mysql,git,github,vscode,linux,figma,tensorflow,pytorch" />
 </p>
 
 ---
 
-## 🔥 Current Project
+## 🎯 Current Focus
 
-### Alchemist OS
-
-AI-powered desktop assistant featuring:
-
-- 🎙️ Voice Assistant
-- 🧠 Memory System
-- 👁️ Vision Agent
-- 🌐 Browser Automation
-- 🤖 AI Planning
-- 🖥️ Computer Control
+* Building Alchemist OS
+* AI Agents & Automation
+* Full Stack Development
+* Open Source Projects
+* Startup Building
 
 ---
 
@@ -55,7 +92,7 @@ AI-powered desktop assistant featuring:
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
 
@@ -67,12 +104,12 @@ AI-powered desktop assistant featuring:
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://souravportfoli.vercel.app/">
-<img src="https://img.icons8.com/fluency/48/domain.png" width="48"/>
+<a href="https://www.linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://www.linkedin.com/in/sourav-s">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://souravportfoli.vercel.app/">
+<img src="https://img.icons8.com/fluency/48/domain.png" width="48"/>
 </a>
 
 </p>
@@ -80,5 +117,5 @@ AI-powered desktop assistant featuring:
 ---
 
 <p align="center">
-⚡ Creator of Alchemist OS
+⚡ Creator of Alchemist OS ⚡
 </p>
