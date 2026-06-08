@@ -77,25 +77,9 @@ An AI-powered desktop operating layer capable of:
 ---
 
 ## 🧠 Skills
-
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,ts,js,tailwind,html,css,sqlite,mysql,git,github,vscode,linux,figma,tensorflow,pytorch" />
 </p>
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
-</p>
-<p>
-<img src="https://skillicons.dev/icons?i=sqlite,mysql" />
-</p>
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,ts,js,tailwind,sqlite,git,github,vscode" /><br>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /><br>
 
 ### AI & Automation
 
