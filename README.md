@@ -17,20 +17,23 @@ AI Engineer • Full Stack Developer • Creator of Alchemist OS
 ---
 
 ## 🚀 About Me
+I'm **Sourav S**, a B.Tech student in Artificial Intelligence & Data Science with a strong interest in AI systems, software engineering, and intelligent automation.
 
-I'm **Sourav S**, an Artificial Intelligence & Data Science student passionate about building intelligent software systems, AI-powered applications, and automation platforms.
+I specialize in building end-to-end applications that combine artificial intelligence, modern web technologies, and automation to solve real-world problems.
 
-Currently building **Alchemist OS**, an AI-powered desktop assistant that combines:
+Currently, I am developing **Alchemist OS**, an AI-powered desktop assistant that integrates voice interaction, persistent memory, computer vision, browser automation, task orchestration, and autonomous execution into a unified system.
 
-* 🎙️ Voice Interaction
-* 🧠 Persistent Memory
-* 👁️ Computer Vision
-* 🌐 Browser Automation
-* 🤖 AI Planning & Execution
-* 🖥️ Computer Control
-* 📋 Task Management
+My areas of interest include:
 
-I enjoy transforming ambitious ideas into real-world products through engineering, automation, and AI.
+* Artificial Intelligence & Machine Learning
+* AI Agents & Autonomous Systems
+* Full Stack Development
+* Intelligent Automation
+* Computer Vision
+* Human-AI Interaction
+
+I enjoy designing and engineering software that transforms complex ideas into practical, scalable, and impactful solutions.
+
 
 ---
 ## 🛠️ Tech Stack
