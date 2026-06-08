@@ -33,48 +33,6 @@ Currently building **Alchemist OS**, an AI-powered desktop assistant that combin
 I enjoy transforming ambitious ideas into real-world products through engineering, automation, and AI.
 
 ---
-
-## 🔥 Featured Project
-
-# Alchemist OS
-
-An AI-powered desktop operating layer capable of:
-
-### Features
-
-* Voice Assistant
-* Wake Word Detection
-* Memory System
-* Browser Agent
-* Vision Agent
-* Autonomous Task Planning
-* Computer Control
-* Real-Time Dashboard
-* SQLite Persistence
-* AI Tool Orchestration
-
-### Tech Stack
-
-#### Backend
-
-* Python
-* FastAPI
-* SQLite
-* Groq
-* Playwright
-* PyAutoGUI
-* WebSockets
-
-#### Frontend
-
-* React
-* Next.js
-* TypeScript
-* Tailwind CSS
-* Three.js
-* Framer Motion
-
----
 ## 🛠️ Tech Stack
 
 <p align="center">
