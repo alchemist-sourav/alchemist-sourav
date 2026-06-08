@@ -75,105 +75,26 @@ An AI-powered desktop operating layer capable of:
 * Framer Motion
 
 ---
-
 ## 🛠️ Tech Stack
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,r" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,r,react,nextjs,tailwind,threejs,html,css,fastapi,nodejs,express,postgres,mongodb,firebase,sqlite,mysql,tensorflow,pytorch,git,github,vscode,linux,figma" />
 </p>
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css" />
-</p>
+<p align="center">
 
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
-</p>
-
-### Databases
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,sqlite,mysql" />
-</p>
-
-### AI & Machine Learning
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-📚 RAG Systems • 🤖 AI Agents • 🧠 Prompt Engineering • 💬 LLM Applications • 👁️ Computer Vision
-
-### Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
-</p>
-
-<p>
 <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-</p>
-### AI & Data Science
 
-- 🤖 AI Agents
-- 🧠 Prompt Engineering
-- 📚 RAG Systems
-- 💬 LLM Applications
-- 📈 Data Analysis
-- 📊 Data Visualization
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 🔎 Semantic Search
-- 👁️ Computer Vision
-
-### Cloud & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=firebase" />
 </p>
 
-- 🍃 MongoDB Atlas
-
-### Tools & Design
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<p align="center">
+🤖 AI Agents • 🧠 Prompt Engineering • 📚 RAG Systems • 💬 LLM Applications • 👁️ Computer Vision • ⚙️ Workflow Automation • 🚀 Autonomous Systems
 </p>
 
-- 🎨 Canva
-
-### Frameworks & Libraries
-
-- ⚛️ React.js
-- 🚀 Next.js
-- 🎨 Tailwind CSS
-- 🌌 Three.js
-- ⚡ FastAPI
-- 🌐 Express.js
-- 📊 Streamlit
-
-### Automation
-
-- 🌐 Browser Automation
-- ⚙️ Workflow Automation
-- 🚀 Autonomous Systems
-- 🖥️ Computer Control
-- 🎙️ Voice AI
-### AI & Automation
-
-* AI Agents
-* Prompt Engineering
-* Browser Automation
-* Computer Vision
-* Workflow Automation
-* LLM Applications
-* Autonomous Systems
-
----
 
 ## 🎓 Education
 
