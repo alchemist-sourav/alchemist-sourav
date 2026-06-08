@@ -1,121 +1,107 @@
-<h1 align="center">⚡ Sourav S ⚡</h1>
+<h1 align="center">
+⚗️ Hello World, I'm Alchemist (Sourav S)
+</h1>
 
-<h3 align="center">
+<p align="center">
 AI Engineer • Full Stack Developer • Creator of Alchemist OS
-</h3>
-
-<p align="center">
-Building AI Agents, Automation Systems & Intelligent Software
 </p>
 
 <p align="center">
-<a href="https://github.com/alchemist-sourav">GitHub</a> •
-<a href="https://souravportfoli.vercel.app/">Portfolio</a> •
-<a href="mailto:souravs51380@gmail.com">Email</a>
+Building AI Agents, Autonomous Systems & Future Software
 </p>
 
 ---
 
-## 👋 About Me
+# About Me
 
-I'm a B.Tech Artificial Intelligence & Data Science student passionate about building real-world AI systems and automation platforms.
+I'm Sourav S, an Artificial Intelligence & Data Science student from India.
 
-Currently building **Alchemist OS** — an AI-powered desktop assistant that combines:
+Most students build projects.
 
-* Voice Interaction
-* Wake Word Detection
-* Memory Systems
-* Browser Automation
-* Vision Analysis
-* Computer Control
-* Autonomous Task Execution
+I build systems.
 
-I enjoy turning ambitious ideas into working products through software engineering and AI.
+Currently creating **Alchemist OS**, an AI-powered operating layer that combines:
 
----
+- Voice Interaction
+- Wake Word Detection
+- Persistent Memory
+- Vision Analysis
+- Browser Automation
+- Computer Control
+- Autonomous Task Execution
 
-## 🚀 Current Project
-
-### Alchemist OS
-
-An AI-powered desktop operating layer built with:
-
-* Python
-* FastAPI
-* React
-* Next.js
-* SQLite
-* Playwright
-* PyAutoGUI
-* Groq API
-* WebSockets
-
-Features:
-
-* AI Agents
-* Voice Assistant
-* Vision Agent
-* Browser Agent
-* Task Management
-* Persistent Memory
-* Desktop Automation
+My goal is to create software that can think, observe, remember, and act.
 
 ---
 
-## 🛠️ Tech Stack
+# Current Mission
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,ts,js,tailwind,html,css,sqlite,mysql,git,github,vscode,linux,figma,tensorflow,pytorch" />
-</p>
+⚗️ Alchemist OS
 
----
+An experimental AI Operating System designed to function as a real-world AI assistant.
 
-## 🎯 Current Focus
+Core Modules:
 
-* Building Alchemist OS
-* AI Agents & Automation
-* Full Stack Development
-* Open Source Projects
-* Startup Building
+✓ Voice Agent
 
----
+✓ Vision Agent
 
-## 📊 GitHub Stats
+✓ Browser Agent
 
-<p align="center">
+✓ Memory System
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alchemist-sourav&show_icons=true&theme=radical"/>
+✓ Task Planner
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=alchemist-sourav&theme=radical"/>
+✓ Autonomous Executor
 
-</p>
+✓ Self-Improvement Engine
 
 ---
 
-## 🌐 Connect
+# Tech Stack
 
-<p align="center">
+Python • FastAPI • React • Next.js • SQLite
 
-<a href="https://github.com/alchemist-sourav">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+Playwright • PyAutoGUI • WebSockets
 
-<a href="mailto:souravs51380@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://www.linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://souravportfoli.vercel.app/">
-<img src="https://img.icons8.com/fluency/48/domain.png" width="48"/>
-</a>
-
-</p>
+AI Agents • LLMs • Automation Systems
 
 ---
 
-<p align="center">
-⚡ Creator of Alchemist OS ⚡
-</p>
+# Featured Projects
+
+## ⚗️ Alchemist OS
+
+AI-powered desktop assistant with memory, vision, voice and automation capabilities.
+
+## 🚦 Gridlock
+
+Traffic demand prediction system using Machine Learning.
+
+## 📊 Data Science Projects
+
+Machine Learning and AI experiments focused on real-world applications.
+
+---
+
+# GitHub Stats
+
+[stats cards here]
+
+---
+
+# Connect
+
+GitHub: github.com/alchemist-sourav
+
+Portfolio: souravportfoli.vercel.app
+
+LinkedIn: linkedin.com/in/sourav-s
+
+Email: souravs51380@gmail.com
+
+---
+
+"Any sufficiently advanced technology is indistinguishable from magic."
+
+— Arthur C. Clarke
