@@ -81,6 +81,78 @@ An AI-powered desktop operating layer capable of:
 <img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,ts,js,tailwind,html,css,sqlite,mysql,git,github,vscode,linux,figma,tensorflow,pytorch" />
 </p>
 
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,r" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" />
+</p>
+
+### AI & Data Science
+
+- 🤖 AI Agents
+- 🧠 Prompt Engineering
+- 📚 RAG Systems
+- 💬 LLM Applications
+- 📈 Data Analysis
+- 📊 Data Visualization
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 🔎 Semantic Search
+- 👁️ Computer Vision
+
+### Cloud & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=firebase" />
+</p>
+
+- 🍃 MongoDB Atlas
+
+### Tools & Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+- 🎨 Canva
+
+### Frameworks & Libraries
+
+- ⚛️ React.js
+- 🚀 Next.js
+- 🎨 Tailwind CSS
+- 🌌 Three.js
+- ⚡ FastAPI
+- 🌐 Express.js
+- 📊 Streamlit
+
+### Automation
+
+- 🌐 Browser Automation
+- ⚙️ Workflow Automation
+- 🚀 Autonomous Systems
+- 🖥️ Computer Control
+- 🎙️ Voice AI
 ### AI & Automation
 
 * AI Agents
