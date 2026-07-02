@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-⚡ Sourav S ⚡
+ Sourav S 
 </h1>
 
 <h3 align="center">
