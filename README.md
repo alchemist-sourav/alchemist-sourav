@@ -1,137 +1,62 @@
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="30">
+  Sourav S
 </h1>
 
-<h1 align="center">
- Sourav S 
-</h1>
-
-<h3 align="center">
-AI Engineer • Full Stack Developer • Creator of Alchemist OS
-</h3>
+<h3 align="center">AI Engineer • Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF003C&center=true&vCenter=true&width=900&lines=AI+Engineer;Creator+of+Alchemist+OS;Full+Stack+Developer;Building+AI+Agents+and+Automation;Python+%7C+FastAPI+%7C+Next.js;Always+Learning+and+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FF003C&center=true&vCenter=true&width=800&lines=AI+Engineer;Full+Stack+Developer;Building+AI+Agents+%26+Automation;Python+%7C+FastAPI+%7C+Next.js" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="450">
 </p>
 
 ---
 
-## 🚀 About Me
-I'm **Sourav S**, a B.Tech student in Artificial Intelligence & Data Science with a strong interest in AI systems, software engineering, and intelligent automation.
+### 👋 About Me
 
-I specialize in building end-to-end applications that combine artificial intelligence, modern web technologies, and automation to solve real-world problems.
+B.Tech student in AI & Data Science, focused on building AI agents, automation systems, and full-stack applications. Currently working on an AI-powered desktop assistant with voice interaction, memory, and task automation.
 
-Currently, I am developing **Alchemist OS**, an AI-powered desktop assistant that integrates voice interaction, persistent memory, computer vision, browser automation, task orchestration, and autonomous execution into a unified system.
-
-My areas of interest include:
-
-* Artificial Intelligence & Machine Learning
-* AI Agents & Autonomous Systems
-* Full Stack Development
-* Intelligent Automation
-* Computer Vision
-* Human-AI Interaction
-
-I enjoy designing and engineering software that transforms complex ideas into practical, scalable, and impactful solutions.
-
-
----
-## 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,r,react,nextjs,tailwind,threejs,html,css,fastapi,nodejs,express,postgres,mongodb,firebase,sqlite,mysql,tensorflow,pytorch,git,github,vscode,linux,figma" />
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-
-</p>
-
-<p align="center">
-🤖 AI Agents • 🧠 Prompt Engineering • 📚 RAG Systems • 💬 LLM Applications • 👁️ Computer Vision • ⚙️ Workflow Automation • 🚀 Autonomous Systems
-</p>
-
-
-## 🎓 Education
-
-### B.Tech – Artificial Intelligence & Data Science
-
-🏫 College of Engineering Karunagappally (KTU)
-
-📅 2023 – 2027
+- 🤖 AI Agents & Automation
+- 🧠 RAG Systems & LLM Applications
+- 💻 Full Stack Development
+- 👁️ Computer Vision
 
 ---
 
-## 🚀 Current Focus
-
-* Building Alchemist OS
-* AI Agents
-* Automation Systems
-* Full Stack Development
-* Open Source Contributions
-* Startup Building
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alchemist-sourav&show_icons=true&theme=radical"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alchemist-sourav&theme=radical"/>
-
+### 🛠️ Tech Stack
+<p>
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"><img src="https://skillicons.dev/icons?i=react,nextjs,vite,ts,js,html,css,tailwind,redux" /><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,graphql" /><img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,firebase,supabase,prisma,redis" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,r" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,docker,postman,linux" />
 </p>
 
+<p>
+   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="200">
+</p>
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alchemist-sourav&theme=react-dark"/>
-
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=alchemist-sourav&show_icons=true&theme=radical"/>
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=alchemist-sourav&theme=radical"/>
 </p>
 
 ---
 
-## 🌐 Portfolio
-
-🔗 Portfolio:
-https://souravportfoli.vercel.app/
-
-🔗 GitHub:
-https://github.com/alchemist-sourav
-
----
-
-## 📫 Connect With Me
+### 📫 Connect
 
 <p align="center">
-
-<a href="https://github.com/alchemist-sourav">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
-</a>
-
-<a href="mailto:souravs51380@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
-</a>
-
-<a href="https://souravportfoli.vercel.app/">
-<img src="https://img.icons8.com/fluency/48/domain.png" width="55"/>
-</a>
-
+<a href="https://github.com/alchemist-sourav"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+<a href="mailto:souravs51380@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+<a href="https://souravportfoli.vercel.app/"><img src="https://img.icons8.com/fluency/48/domain.png" width="45"/></a>
 </p>
-
----
-
-## ⚡ Philosophy
-
-> Build. Break. Learn. Improve. Repeat.
-
----
 
 <p align="center">
-⚡ Creator of Alchemist OS • Building AI Systems, Automation & Future Technologies ⚡
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="500">
 </p>
+
+<p align="center">⚡ Build. Break. Learn. Improve. Repeat. ⚡</p>
