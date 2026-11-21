@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Sourav S.
+# Sourav S
 
 ### AI & Full-Stack Developer
 
