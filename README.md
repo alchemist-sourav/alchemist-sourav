@@ -1,10 +1,13 @@
+
 <div align="center">
 
 # Sourav S.
 
 ### AI & Full-Stack Developer
 
-**Building practical AI systems and thoughtful digital products.**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3200&amp;pause=900&amp;color=9BA7FF&amp;center=true&amp;vCenter=true&amp;width=780&amp;lines=Building+intelligent+applications;Exploring+LLM+security+and+RAG;Engineering+useful+digital+products;Turning+ideas+into+working+software" alt="Animated introduction: building intelligent applications, exploring LLM security and RAG, engineering useful digital products" />
+</p>
 
 <p>
   <a href="https://souravportfoli.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
@@ -87,6 +90,16 @@ My work spans retrieval-augmented generation (RAG), LLM application security, AI
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=alchemist-sourav&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Sourav's GitHub statistics">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alchemist-sourav&layout=compact&hide_border=true&theme=transparent" alt="Most used languages">
 
+</div>
+
+## Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alchemist-sourav/alchemist-sourav/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alchemist-sourav/alchemist-sourav/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated snake moving across the GitHub contribution graph" src="https://raw.githubusercontent.com/alchemist-sourav/alchemist-sourav/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ## Connect
